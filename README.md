@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil-Gududas
-- 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning flutter 
+- 👀 I’m interested in developing mobile apps and webistes
+- 🌱 I’m currently learning flutter and web development
 
 
 <!---
