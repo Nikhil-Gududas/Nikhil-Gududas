@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Nikhil-Gududas
+- 👋 Hi, I’m @Nikhil-Gududas - flutter developer
 - 👀 I’m interested in developing mobile apps and webistes
-- 🌱 I’m currently learning flutter and web development
 
 
 <!---
